@@ -1,0 +1,6 @@
+cc_library_headers {
+    name: "cereal",
+    export_include_dirs: [
+        "include",
+    ],
+}
